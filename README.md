@@ -1,5 +1,6 @@
 # OrderByDistance
-A Laravel package that manages `ORDER BY` clause sorting by distance.
+A Laravel package that manages `ORDER BY` clause sorting by distance.  
+(This package is maintained under L5.5.)  
 
 # Installation
 
